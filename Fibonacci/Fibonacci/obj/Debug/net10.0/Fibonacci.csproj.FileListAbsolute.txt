@@ -1,0 +1,14 @@
+M:\C# Lab\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.exe
+M:\C# Lab\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.deps.json
+M:\C# Lab\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.runtimeconfig.json
+M:\C# Lab\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.dll
+M:\C# Lab\Fibonacci\Fibonacci\bin\Debug\net10.0\Fibonacci.pdb
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfoInputs.cache
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfo.cs
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.csproj.CoreCompileInputs.cache
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.dll
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\refint\Fibonacci.dll
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.pdb
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\Fibonacci.genruntimeconfig.cache
+M:\C# Lab\Fibonacci\Fibonacci\obj\Debug\net10.0\ref\Fibonacci.dll
