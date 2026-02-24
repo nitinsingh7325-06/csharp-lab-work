@@ -1,0 +1,14 @@
+M:\C# Lab\MinimumNumber\MinimumNumber\bin\Debug\net10.0\MinimumNumber.exe
+M:\C# Lab\MinimumNumber\MinimumNumber\bin\Debug\net10.0\MinimumNumber.deps.json
+M:\C# Lab\MinimumNumber\MinimumNumber\bin\Debug\net10.0\MinimumNumber.runtimeconfig.json
+M:\C# Lab\MinimumNumber\MinimumNumber\bin\Debug\net10.0\MinimumNumber.dll
+M:\C# Lab\MinimumNumber\MinimumNumber\bin\Debug\net10.0\MinimumNumber.pdb
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.AssemblyInfoInputs.cache
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.AssemblyInfo.cs
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.csproj.CoreCompileInputs.cache
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.dll
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\refint\MinimumNumber.dll
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.pdb
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\MinimumNumber.genruntimeconfig.cache
+M:\C# Lab\MinimumNumber\MinimumNumber\obj\Debug\net10.0\ref\MinimumNumber.dll
