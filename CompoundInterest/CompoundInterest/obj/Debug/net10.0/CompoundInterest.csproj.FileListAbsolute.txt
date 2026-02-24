@@ -1,0 +1,14 @@
+M:\C# Lab\CompoundInterest\CompoundInterest\bin\Debug\net10.0\CompoundInterest.exe
+M:\C# Lab\CompoundInterest\CompoundInterest\bin\Debug\net10.0\CompoundInterest.deps.json
+M:\C# Lab\CompoundInterest\CompoundInterest\bin\Debug\net10.0\CompoundInterest.runtimeconfig.json
+M:\C# Lab\CompoundInterest\CompoundInterest\bin\Debug\net10.0\CompoundInterest.dll
+M:\C# Lab\CompoundInterest\CompoundInterest\bin\Debug\net10.0\CompoundInterest.pdb
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.AssemblyInfoInputs.cache
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.AssemblyInfo.cs
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.csproj.CoreCompileInputs.cache
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.dll
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\refint\CompoundInterest.dll
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.pdb
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.genruntimeconfig.cache
+M:\C# Lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\ref\CompoundInterest.dll
