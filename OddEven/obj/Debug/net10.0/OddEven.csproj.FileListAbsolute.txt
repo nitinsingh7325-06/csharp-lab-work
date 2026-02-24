@@ -1,0 +1,14 @@
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.AssemblyInfoInputs.cache
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.AssemblyInfo.cs
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.csproj.CoreCompileInputs.cache
+M:\C# Lab\OddEven\bin\Debug\net10.0\OddEven.exe
+M:\C# Lab\OddEven\bin\Debug\net10.0\OddEven.deps.json
+M:\C# Lab\OddEven\bin\Debug\net10.0\OddEven.runtimeconfig.json
+M:\C# Lab\OddEven\bin\Debug\net10.0\OddEven.dll
+M:\C# Lab\OddEven\bin\Debug\net10.0\OddEven.pdb
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.dll
+M:\C# Lab\OddEven\obj\Debug\net10.0\refint\OddEven.dll
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.pdb
+M:\C# Lab\OddEven\obj\Debug\net10.0\OddEven.genruntimeconfig.cache
+M:\C# Lab\OddEven\obj\Debug\net10.0\ref\OddEven.dll
