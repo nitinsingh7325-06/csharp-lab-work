@@ -1,0 +1,14 @@
+M:\C# Lab\RadiusCircle\bin\Debug\net10.0\RadiusCircle.exe
+M:\C# Lab\RadiusCircle\bin\Debug\net10.0\RadiusCircle.deps.json
+M:\C# Lab\RadiusCircle\bin\Debug\net10.0\RadiusCircle.runtimeconfig.json
+M:\C# Lab\RadiusCircle\bin\Debug\net10.0\RadiusCircle.dll
+M:\C# Lab\RadiusCircle\bin\Debug\net10.0\RadiusCircle.pdb
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.AssemblyInfoInputs.cache
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.AssemblyInfo.cs
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.csproj.CoreCompileInputs.cache
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.dll
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\refint\RadiusCircle.dll
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.pdb
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\RadiusCircle.genruntimeconfig.cache
+M:\C# Lab\RadiusCircle\obj\Debug\net10.0\ref\RadiusCircle.dll

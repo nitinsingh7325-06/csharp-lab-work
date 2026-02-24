@@ -1,0 +1,14 @@
+M:\C# Lab\SumOfNumbers\SumOfNumbers\bin\Debug\net10.0\SumOfNumbers.exe
+M:\C# Lab\SumOfNumbers\SumOfNumbers\bin\Debug\net10.0\SumOfNumbers.deps.json
+M:\C# Lab\SumOfNumbers\SumOfNumbers\bin\Debug\net10.0\SumOfNumbers.runtimeconfig.json
+M:\C# Lab\SumOfNumbers\SumOfNumbers\bin\Debug\net10.0\SumOfNumbers.dll
+M:\C# Lab\SumOfNumbers\SumOfNumbers\bin\Debug\net10.0\SumOfNumbers.pdb
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.AssemblyInfoInputs.cache
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.AssemblyInfo.cs
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.csproj.CoreCompileInputs.cache
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.dll
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\refint\SumOfNumbers.dll
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.pdb
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\SumOfNumbers.genruntimeconfig.cache
+M:\C# Lab\SumOfNumbers\SumOfNumbers\obj\Debug\net10.0\ref\SumOfNumbers.dll
