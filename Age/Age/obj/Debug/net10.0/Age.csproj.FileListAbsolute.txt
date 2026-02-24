@@ -1,0 +1,14 @@
+M:\C# Lab\Age\Age\bin\Debug\net10.0\Age.exe
+M:\C# Lab\Age\Age\bin\Debug\net10.0\Age.deps.json
+M:\C# Lab\Age\Age\bin\Debug\net10.0\Age.runtimeconfig.json
+M:\C# Lab\Age\Age\bin\Debug\net10.0\Age.dll
+M:\C# Lab\Age\Age\bin\Debug\net10.0\Age.pdb
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.AssemblyInfoInputs.cache
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.AssemblyInfo.cs
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.csproj.CoreCompileInputs.cache
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.dll
+M:\C# Lab\Age\Age\obj\Debug\net10.0\refint\Age.dll
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.pdb
+M:\C# Lab\Age\Age\obj\Debug\net10.0\Age.genruntimeconfig.cache
+M:\C# Lab\Age\Age\obj\Debug\net10.0\ref\Age.dll
